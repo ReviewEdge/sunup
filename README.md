@@ -1,2 +1,2 @@
-# name
-What does it do?
+# sunup
+Sends you a daily report each morning
